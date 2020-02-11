@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ChineseConvertor">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ChineseConvertor.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
